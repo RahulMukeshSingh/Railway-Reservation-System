@@ -5,8 +5,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Timestamp;
 
-import com.sun.org.apache.bcel.internal.classfile.PMGClass;
-
 class EligibleSeatStructure {
 	private String pnr = "";
 	private int pnrCounter = 0;
