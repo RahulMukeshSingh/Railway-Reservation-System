@@ -1,0 +1,54 @@
+.calendar-icon{
+	background-image:url(../images/calendar.png);
+	background-position:left;
+	background-repeat:no-repeat;
+	padding-left:30px;
+	background-size:contain;
+	
+	}
+
+.train-icon{
+	background-image:url(../images/Train.png);
+	background-position:left;
+	background-repeat:no-repeat;
+	background-size:contain; 
+	padding-left:30px;
+}
+
+	
+.source-icon{
+	background-image:url(../images/source.png);
+	background-position:left;
+	background-repeat:no-repeat;
+	background-size:contain;
+	padding-left:30px;
+	
+}
+.email-icon{
+	background-image:url(../images/email.png);
+	background-position:left;
+	background-repeat:no-repeat;
+	background-size:contain;
+	padding-left:30px;	
+	
+}
+
+.password-icon{
+	background-image:url(../images/password.png);
+	background-position:left;
+	background-repeat:no-repeat;
+	background-size:contain;
+	padding-left:30px;	
+}
+
+.user-icon{
+	background-image:url(../images/user.png);
+	background-position:left;
+	background-repeat:no-repeat;
+	background-size:contain;
+	padding-left:30px;	
+	
+}
+::-ms-clear {
+  display: none;
+}
